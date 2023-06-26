@@ -1,8 +1,14 @@
 {
-  "posts": [
+  "documents": [
     {
       "id": 1,
-      "title": "hello"
+      "type": "Завершен",
+      "name": "Doc 1",
+      "number": 12890,
+      "date_start": "04.07.2021",
+      "date_end": "04.07.2022"
+      "end_alert": true,
+      "create_task_after_end": false
     }
   ],
   "profile": {
