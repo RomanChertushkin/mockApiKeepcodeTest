@@ -12,7 +12,7 @@
       "create_task_after_end": false
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Договор",
       "number": 2,
       "type": "Договор",
@@ -23,9 +23,20 @@
       "create_task_after_end": false
     },
     {
-      "id": 2,
+      "id": 4,
       "name": "Справка",
-      "number": 2,
+      "number": null,
+      "type": "Другое",
+      "status": null,
+      "date_start": "04.07.2021",
+      "date_end": "04.07.2022",
+      "end_alert": true,
+      "create_task_after_end": false
+    },
+    {
+      "id": 5,
+      "name": "Анкета",
+      "number": null,
       "type": "Другое",
       "status": null,
       "date_start": "04.07.2021",
