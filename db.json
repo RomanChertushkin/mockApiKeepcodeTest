@@ -2,9 +2,10 @@
   "documents": [
     {
       "id": 1,
-      "name": "Doc 1",
-      "number": 12890,
+      "name": "Договор",
+      "number": 1,
       "status": "Расторгнут",
+      "type": 'Договор',
       "date_start": "04.07.2021",
       "date_end": "04.07.2022",
       "end_alert": true,
@@ -12,8 +13,9 @@
     },
     {
       "id": 2,
-      "name": "Doc 1",
-      "number": 12890,
+      "name": "Договор",
+      "number": 2,
+      "type": 'Договор',
       "status": "Заклёчен",
       "date_start": "04.07.2021",
       "date_end": "04.07.2022",
