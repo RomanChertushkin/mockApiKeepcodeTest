@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Договор",
-      "number": 1,
+      "number": '№001',
       "status": "Расторгнут",
       "type": "Договор",
       "date_start": "04.07.2021",
@@ -17,6 +17,17 @@
       "number": 2,
       "type": "Договор",
       "status": "Заклёчен",
+      "date_start": "04.07.2021",
+      "date_end": "04.07.2022",
+      "end_alert": true,
+      "create_task_after_end": false
+    },
+    {
+      "id": 2,
+      "name": "Справка",
+      "number": 2,
+      "type": "Другое",
+      "status": null,
       "date_start": "04.07.2021",
       "date_end": "04.07.2022",
       "end_alert": true,
